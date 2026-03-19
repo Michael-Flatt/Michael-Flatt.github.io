@@ -28,6 +28,7 @@ body {
 }
 
 .test_button {
+    background-color: #333333;
     width: 150px;
     height: 50px;
     border-radius: 5%;
