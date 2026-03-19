@@ -23,7 +23,7 @@ body {
 .buttons_container {
     align-items: center;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     width: 400px;
 }
 
