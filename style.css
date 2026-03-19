@@ -35,6 +35,10 @@ body {
     background-color: #555555;
 }
 
+.redirector {
+    cursor: pointer;
+}
+
 .page_button {
     background-color: #333333;
     width: 150px;
