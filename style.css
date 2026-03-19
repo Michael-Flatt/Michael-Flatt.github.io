@@ -4,10 +4,11 @@ body {
 
 .nav_bar {
     background-color: #4caf50;
-    width: 100%;
     height: 80px;
-    padding: 5px;
+    padding: 0 10%;
     align-items: center;
+    display: flex;
+    justify-content: space-around;
 }
 
 .heading_container {
@@ -21,6 +22,9 @@ body {
 
 .buttons_container {
     align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 400px;
 }
 
 .test_box {
