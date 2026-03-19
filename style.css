@@ -15,6 +15,9 @@ body {
 
 .test_box {
     background-color: #008cba;
+    width: 50%;
+    height: 25%;
+    margin: 25% auto;
     border-radius: 25%;
 }
 
